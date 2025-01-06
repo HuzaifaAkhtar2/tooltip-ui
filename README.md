@@ -17,3 +17,5 @@ In this project, I was required to create a tooltip that appears above navigatio
 - [x] Responsive Layout
 - [x] Smooth Animations
 - [x] Visually Appealing Font i.e. Jetbrains Mono 
+
+## <a href="https://roadmap.sh/projects/tooltip-ui">Project URL</a>
