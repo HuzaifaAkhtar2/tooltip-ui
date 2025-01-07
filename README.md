@@ -5,12 +5,10 @@ In this project, I was required to create a tooltip that appears above navigatio
 
 ## Navigation Items
 
-<ul>
-  <li>Home</li>
-  <li>Project</li>
-  <li>Contact</li>
-  <li>Blog</li>
-</ul>
+  - **Home**
+  - **Project**
+  - **Contact**
+  - **Blog**
 
 ## Requirements
 
